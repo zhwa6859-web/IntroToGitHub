@@ -1,1 +1,2 @@
 This is my first Git practice for CSCI 1000.
+Today I practiced Git commands for CSCI 1000.
